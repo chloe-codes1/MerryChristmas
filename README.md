@@ -3,4 +3,5 @@
 
 <br>
 <br>
-![demo](demo.gif)
+
+![demo](https://github.com/chloe-codes1/MerryChristmas/blob/main/demo.gif)
