@@ -4,4 +4,5 @@
 <br>
 <br>
 
-![demo](https://github.com/chloe-codes1/MerryChristmas/blob/main/demo.gif)
+<img src="https://github.com/chloe-codes1/MerryChristmas/blob/main/demo.gif" width="400" />
+
